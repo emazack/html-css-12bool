@@ -1,15 +1,19 @@
+
+/* Regole generali */
 .conteiner{
   background-color: lightpink;
   height: 150px;
   border: 2px solid black;
 }
 
+/* Centratura testo */
 .center{
   text-align: center;
   line-height: 150px;
 }
 
-.conteiner > div{
+/* Riga 1 */
+.conteiner > #Riga1{
   border-right: 4px solid black;
   height: 100%;
 }
