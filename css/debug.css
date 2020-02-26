@@ -41,3 +41,9 @@
   border-right: 4px solid black;
   height: 100%;
 }
+
+/* Nested box */
+#Nested{
+  border-right: 1px solid white;
+  background-color: orange;
+}
