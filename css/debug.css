@@ -3,3 +3,13 @@
   height: 150px;
   border: 2px solid black;
 }
+
+.center{
+  text-align: center;
+  line-height: 150px;
+}
+
+.conteiner > div{
+  border-right: 4px solid black;
+  height: 100%;
+}
