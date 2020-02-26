@@ -37,13 +37,13 @@
 }
 
 /* Riga 5 */
-.conteiner > #Riga5{
+.conteiner > #Riga5sx, .conteiner > #Riga5dx{
   border-right: 4px solid black;
   height: 100%;
 }
 
 /* Nested box */
 #Nested{
-  border-right: 1px solid white;
   background-color: orange;
+  border: 0px solid white;
 }
